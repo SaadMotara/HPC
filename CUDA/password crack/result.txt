@@ -1,0 +1,10 @@
+Time elasped was 2135996805ns or 2.135996805s
+Time elasped was 2118178623ns or 2.118178623s
+Time elasped was 2116219130ns or 2.116219130s
+Time elasped was 2118418688ns or 2.118418688s
+Time elasped was 2116686269ns or 2.116686269s
+Time elasped was 2115180762ns or 2.115180762s
+Time elasped was 2115907353ns or 2.115907353s
+Time elasped was 2115976956ns or 2.115976956s
+Time elasped was 2130387672ns or 2.130387672s
+Time elasped was 2117903748ns or 2.117903748s
