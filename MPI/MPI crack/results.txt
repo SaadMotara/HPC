@@ -1,0 +1,30 @@
+10000 solutions explored
+10000 solutions explored
+10000 solutions explored
+10000 solutions explored
+#210073  AV72 $6$KB$yPvAP5BWyF7oqOITVloN9mCAVdel.65miUZrEel72LcJy2KQDuYE6xccHS2ycoxqXDzW.lvbtDU5HuZ733K0X0
+3380000 solutions explored
+3380000 solutions explored
+#1470028 FR27 $6$KB$4dWyDaT7p8xMWfb6.1R4Q7hQMyezwOgLfAcZhdE4QkH3bylH4EmM.gOVhU7m7K9FHfL.kKhzK6bfHqfA.NDb/0
+3380000 solutions explored
+3380000 solutions explored
+#1740051 GS50 $6$KB$xELPxo7gwBciT/5FN/.kBwgSPG5RZ8TiW8N0hEER1gyYrQ9ErvSfTbGuDl4w9/QyIP5Lu6W25.G.C8jk6VTYL0
+3380000 solutions explored
+3380000 solutions explored
+#1590002 TD01 $6$KB$YsfzwjTmZTAEUfD/L/uEqVAmfKGAWSa0ZWg8tSPGT4DZnQNBzLT4vXg2nl7Yd2KZrs4dykykxVIZZLob5ijUb/
+3380000 solutions explored
+3380000 solutions explored
+Time elapsed was 26815804948762ns or 26815.804948762s
+Time elapsed was 26815805153773ns or 26815.805153773s
+Time elapsed was 26815805412371ns or 26815.805412371s
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[40013,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
